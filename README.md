@@ -1,2 +1,3 @@
 # Convert_Document_to_Knowledge_Graph_Langchain_Openai
 PEFT Fine-Tuning Project 🚀 Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
+<img width="8000" height="4500" alt="68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67" src="https://github.com/user-attachments/assets/84cecb90-5e19-4845-b77d-3367e10a6936" />
